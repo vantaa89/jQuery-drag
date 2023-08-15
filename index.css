@@ -1,0 +1,10 @@
+h1 {
+    color: red;
+}
+
+.block{
+    position: absolute;
+    background-color: #666;
+    width: 200px;
+    height: 150px;
+}
